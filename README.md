@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hello Comic <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a></h1>
-<h6>收集和程序员有关的漫画段子，996 时看一下。</h6>
+<h1>Hello Comic</h1>
+<h6>收集和程序员有关的漫画段子。</h6>
   
 ![](http://cover.u17i.com/2017/02/4596317_1486115484_fNNNqF16X7o3.big.jpg)
 
@@ -11,21 +11,77 @@
 
 ## :see_no_evil: 段子类
 
+<ul>  
+  <li>yueneiqi's likes
+    <ul>
+      <li>
+        <details>
+        <summary>why developer hates to write doc</summary>
+        <img src="https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg" width="50%"/>
+        </details>
+      </li> 
+     <li>
+        <details>
+        <summary>New Issues</summary>
+        <img src="https://img.mp.sohu.com/q_70,c_zoom,w_640/upload/20170805/c62e461c22424834b018277529c7d92c_th.jpg" width="50%"/>
+        </details>
+      </li>
+       <li>
+        <details>
+        <summary>WTFs / minute</summary>
+        <img src="https://www.osnews.com/images/comics/wtfm.jpg" width="50%"/>
+        </details>
+      </li>
+       <li>
+        <details>
+        <summary>I will not throw paper airplanes in class</summary>
+        <img src="https://images0.cnblogs.com/news/66372/201407/301303313216634.jpg" width="100%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>分支合并</summary>
+        <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20171212/7cca4afc4d134ac9be430af1a73ac063.jpeg" width="50%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>tar command</summary>
+        <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_713,h_229/https://dashboard.snapcraft.io/site_media/appmedia/2018/03/687474703a2f2f696d67732e786b63642e636f6d2f636f6d6963732f7461722e706e67.png" width="100%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>HTTP status code</summary>
+          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/7efb7b2d7a634be6b18a6457451779dd.jpeg" width="50%"/>
+          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/2e5a2a8d3015466bbd1c4ff75baed465.jpeg" width="50%"/>
+        </details>
+      </li>
+      <li>
+        <details>
+        <summary>长大好想做个程序员</summary>
+        <img src="https://www.fun48.com/data/attachment/portal/201810/23/182629r8wso7lnysstyljw.jpg" width="50%"/>
+        </details>
+      </li>
+     </ul>
+   </li> 
+</ul> 
+
 - 国内
-  - :thumbsup: [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
-  - :thumbsup: [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
-  - :thumbsup: [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
-  - :thumbsup: [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
-  - :thumbsup: [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
-  - :thumbsup: [挨踢精英](http://m.1kkk.com/manhua41446/)--挨踢精英是发生在IT界办公室内，爆笑的讲述了IT界大佬和下属们之间的有趣故事。
-  - :thumbsup: [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
+  - [程序媛哪有这么可爱](http://www.kuaikanmanhua.com/web/topic/1362/)--关于女程序员的种种。
+  - [程序员幽默漫画](http://ac.qq.com/Comic/comicInfo/id/550436)--这个世界有10种人，一种能看懂程序员幽默，另一种看不懂。
+  - [我与程序员的日常](http://www.u17.com/comic/143758.html)--与程（li）序（ke）员（nan）共同工作的生活，为你们揭开程序员不为人知的一面。
+  - [IT男轶事](http://www.u17.com/comic/102553.html)--四个性格迥异的逗比青年生活的故事
+  - [老男孩日记](http://www.u17.com/comic/11457.html)--混迹上海的硬件工程师
+  - [挨踢精英](http://m.1kkk.com/manhua41446/)--挨踢精英是发生在IT界办公室内，爆笑的讲述了IT界大佬和下属们之间的有趣故事。
+  - [我的第一本编程漫画书](http://m.ac.qq.com/comic/index/id/637437)--故事从计算机起源到如今的人工智能，致敬所有为编程做出贡献的先辈
   - [钢铁直男也配谈恋爱](http://www.u17.com/comic/176296.html)--顾生作为一个没朋友的程序员，恋爱经历为0。以为自己作为异性绝缘体就这样乏味的过下去...
   - [恋爱编程中](https://ac.qq.com/Comic/comicInfo/id/635467)--当平凡的怪力女程序员遇上腹黑公司总裁...
   - [萌鬼到](http://www.u17.com/chapter/769294.html#image_id=5522656)--1-3话程序员鬼
   - [瑜伽达人](http://www.u17.com/comic/173744.html)--运动无能IT女在好友的邀约下一起习练瑜伽…
   - [极客漫画](https://linux.cn/talk/comic/)
   - [爆笑运维部](http://www.u17.com/comic/145814.html)
-  - :thumbsup: [小绿和小蓝](https://ac.qq.com/Comic/ComicInfo/id/536332)--挺有意思的漫画，可以直接去看122话《回忆》。
+  - [小绿和小蓝](https://ac.qq.com/Comic/ComicInfo/id/536332)--挺有意思的漫画，可以直接去看122话《回忆》。
   - 节操已下线
     - [体贴](http://www.u17.com/chapter/460736.html#image_id=3368230)
     - [生日](http://www.u17.com/chapter/476204.html#image_id=3491812)
@@ -168,30 +224,6 @@
       </li>
       <li>
         <details>
-        <summary>凌晨三点</summary>
-        <img src="http://static.webhek.com/techug/uploads/2017/03/19160007067e3240b0f5.gif" width="50%"/>
-        </details>
-      </li>
-      <li>
-        <details>
-        <summary>客户需求 VS 最终产品</summary>
-        <img src="http://static.webhek.com/techug/uploads/2017/03/1914000133561640c401.gif" width="50%"/>
-        </details>
-      </li>
-      <li>
-        <details>
-        <summary>程序员的技能（好污）</summary>
-        <img src="http://read.html5.qq.com/image?src=share&imageUrl=http://abco1.heibaimanhua.com/wp-content/uploads/2018/03/20180319_5aaf8b8125c8c.jpg" width="50%"/>
-        </details>
-      </li>
-      <li>
-        <details>
-        <summary>try...catch...</summary>
-        <img src="http://static.webhek.com/techug/uploads/2017/03/191b000704cfe22c68f5.gif" width="50%"/>
-        </details>
-      </li>
-      <li>
-        <details>
         <summary>HTTP 状态码</summary>
           <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/7efb7b2d7a634be6b18a6457451779dd.jpeg" width="50%"/>
           <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/2e5a2a8d3015466bbd1c4ff75baed465.jpeg" width="50%"/>
@@ -217,11 +249,6 @@
         </details>
       </li>
       <li>
-        <details>
-        <summary>IE 浏览器</summary>
-        <img src="https://user-gold-cdn.xitu.io/2018/11/17/1671f9209f6d782b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1" width="50%"/>
-      </li>
-       <li>
         <details>
         <summary>程序员是什么</summary>
         <img src="https://oscimg.oschina.net/oscnet/cb65495601310aeca112a39ffec1d683e07.jpg" width="50%"/>
@@ -252,6 +279,8 @@
   - [设计师装逼指南](http://iconmoon.com/blog2/how-to-pretend-youre-a-great-designer/)
 
 <br>
+
+origin project: https://github.com/pipiliang/hello-comic
 
 > :loudspeaker: 如有侵权，请及时告知删除。
 
