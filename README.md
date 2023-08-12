@@ -16,6 +16,30 @@
     <ul>
       <li>
         <details>
+        <summary>may the source be with you</summary>
+        <img src="https://www.smaldone.com.ar/fotografias/humor/tux-jedi.jpg" width="50%"/>
+        </details>
+      </li> 
+      <li>
+        <details>
+        <summary>good night, programmers!</summary>
+        <img src="https://turnoff.us/image/en/good-night-programmers.png" width="50%"/>
+        </details>
+      </li> 
+      <li>
+        <details>
+        <summary>new paper I just downloaded</summary>
+        <img src="https://user-images.githubusercontent.com/7352163/142090379-91284705-8b32-4b75-a390-fdfd7ff981e6.png" width="70%"/>
+        </details>
+      </li> 
+      <li>
+        <details>
+        <summary>how well somethings works</summary>
+        <img src="https://i.kym-cdn.com/photos/images/original/001/372/765/818.png" width="90%"/>
+        </details>
+      </li> 
+      <li>
+        <details>
         <summary>why developer hates to write doc</summary>
         <img src="https://cloud.githubusercontent.com/assets/340282/4947986/e1ea7524-6670-11e4-9d2d-65513dfe4ad6.jpg" width="50%"/>
         </details>
@@ -32,7 +56,13 @@
         <img src="https://www.osnews.com/images/comics/wtfm.jpg" width="50%"/>
         </details>
       </li>
-       <li>
+      <li>
+        <details>
+        <summary>Automation</summary>
+        <img src="https://imgs.xkcd.com/comics/automation_2x.png" width="50%"/>
+        </details>
+      </li>
+      <li>
         <details>
         <summary>I will not throw paper airplanes in class</summary>
         <img src="https://images0.cnblogs.com/news/66372/201407/301303313216634.jpg" width="100%"/>
@@ -48,19 +78,6 @@
         <details>
         <summary>tar command</summary>
         <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_713,h_229/https://dashboard.snapcraft.io/site_media/appmedia/2018/03/687474703a2f2f696d67732e786b63642e636f6d2f636f6d6963732f7461722e706e67.png" width="100%"/>
-        </details>
-      </li>
-      <li>
-        <details>
-        <summary>HTTP status code</summary>
-          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/7efb7b2d7a634be6b18a6457451779dd.jpeg" width="50%"/>
-          <img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170919/2e5a2a8d3015466bbd1c4ff75baed465.jpeg" width="50%"/>
-        </details>
-      </li>
-      <li>
-        <details>
-        <summary>长大好想做个程序员</summary>
-        <img src="https://www.fun48.com/data/attachment/portal/201810/23/182629r8wso7lnysstyljw.jpg" width="50%"/>
         </details>
       </li>
      </ul>
@@ -282,5 +299,5 @@
 
 origin project: https://github.com/pipiliang/hello-comic
 
-> :loudspeaker: 如有侵权，请及时告知删除。
+> :loudspeaker: 如有侵权，请及时告知删除。If there is infringement, please inform me to delete in time.
 
